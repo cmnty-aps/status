@@ -1,0 +1,6 @@
+{
+  "name": "CMNTY API Status",
+  "description": "Real-time API & Server Status Dashboard for CMNTY Platform",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
